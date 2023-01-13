@@ -1,0 +1,1 @@
+## The following is an app on streamlit that displays a graph of journal entries and the frequency with positive or negative words across seven days using  nltk.SentimentIntensityAnalyzer
